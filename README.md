@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @haydenlewis
-- 👀 I’m interested in artificial intelligence, graph databases, and data harmonization.
-- 🌱 I’m currently learning prompt engineering and Django.
-- 💞️ I’m looking to collaborate on projects that lower the barrier to entry for prompt engineering.
+- 👀 I’m interested in machine learning, metaverse technologies, and data harmonization tools.
+- 🌱 I’m currently learning prompt engineering, Unity/C#, and Flutter/Dart.
+- 💞️ I’m looking to collaborate on projects that aim to generate better training data for AI models
 - 📫 How to reach me: h@hlew.is
 
 <!---
